@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.2)  9 OCT 2019 13:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.2)  9 OCT 2019 14:59
 entering extended mode
 **./Geräteklassifizierung.tex
 (Geräteklassifizierung.tex
@@ -1606,55 +1606,55 @@ Overfull \hbox (23.9472pt too wide) in paragraph at lines 91--97
 [][] 
  []
 
-[2] (Geräteklassifizierung.lof)
-\tf@lof=\write7
-\openout7 = `Geräteklassifizierung.lof'.
-
- (Geräteklassifizierung.lot)
-\tf@lot=\write8
-\openout8 = `Geräteklassifizierung.lot'.
+[2] (Geräteklassifizierung.lot)
+\tf@lot=\write7
+\openout7 = `Geräteklassifizierung.lot'.
 
 
 
-LaTeX Warning: Empty bibliography on input line 109.
+LaTeX Warning: Empty bibliography on input line 155.
 
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 173.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 173.
  (Geräteklassifizierung.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 127.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 127.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 173.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 173.
 Package rerunfilecheck Info: File `Geräteklassifizierung.out' has not changed.
 
-(rerunfilecheck)             Checksum: 1666FB5154E3B83468278B9F00127212;76.
+(rerunfilecheck)             Checksum: AC446C91BE1DCE27479D1184052DB3B8;394.
 Package logreq Info: Writing requests to 'Geräteklassifizierung.run.xml'.
 \openout1 = `Geräteklassifizierung.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 127.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 173.
  ) 
 Here is how much of TeX's memory you used:
- 38038 strings out of 492895
- 728402 string characters out of 3117196
- 1234913 words of memory out of 3000000
- 41484 multiletter control sequences out of 15000+200000
- 541760 words of font info for 39 fonts, out of 3000000 for 9000
+ 38049 strings out of 492895
+ 728476 string characters out of 3117196
+ 1237917 words of memory out of 3000000
+ 41492 multiletter control sequences out of 15000+200000
+ 543557 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,65p,1149b,745s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1000.pk> <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Benjamin A. Zelisk
-a\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\
+pen/ec/dpi600\ecti1000.pk> <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Benjamin A. Zelisk
+a\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\
 Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecrm1000.pk> <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2.9\font
-s/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Benjamin A. Zeliska\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\B
+dpi600\ecbx1000.pk> <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Benjamin A. Zeliska\AppDa
+ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\B
 enjamin A. Zeliska\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-eccc1200.pk> <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2.9\fonts/pk/lj
-four/jknappen/ec/dpi600\eccc1728.pk> <C:\Users\Benjamin A. Zeliska\AppData\Loca
-l\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
-Output written on Geräteklassifizierung.pdf (4 pages, 79685 bytes).
+ecrm1000.pk> <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2.9\fonts/pk/lj
+four/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Benjamin A. Zeliska\AppData\Loca
+l\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\Benjamin
+ A. Zeliska\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc120
+0.pk> <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
+nappen/ec/dpi600\eccc1728.pk> <C:\Users\Benjamin A. Zeliska\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
+Output written on Geräteklassifizierung.pdf (4 pages, 109167 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 377 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
