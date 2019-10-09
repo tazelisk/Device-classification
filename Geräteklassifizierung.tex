@@ -4,7 +4,6 @@
 \usepackage{ngerman}
 \usepackage[utf8]{inputenc}
 \usepackage{ulem}
-\usepackage{apacite}
 \usepackage{caption}
 \usepackage{graphicx}
 \usepackage{mwe}
@@ -15,7 +14,6 @@
 \usepackage{color}\definecolor{citation}{rgb}{0.2,0.3,1}
 \usepackage[final]{hyperref}
 \usepackage{tabularx}
-\usepackage{booktabs}
 \usepackage{multirow}
 \usepackage{listings}
 \usepackage{epstopdf}
@@ -28,11 +26,15 @@
 \usepackage{color}															 % 
 \usepackage{colortbl}
 \usepackage{flafter}
+\usepackage[backend=biber,
+style=alphabetic,
+]{biblatex}
 \setlength\parindent{0pt}
-
+\include{LayoutStandards}
 
 % Commands
 \renewcommand{\figurename}{Abb.}
+\addbibresource{literatur.bib}
 
 %
 \begin{document}
@@ -82,12 +84,17 @@
 	\newpage
 	%
 	
-	\section{Vorgabe nach MDR}
+	\section{Klassifikationsgruppen nach MDR 2017/745}
 	
-	 
-	
-	
-	
+	 \begin{table}[H]
+	 	\caption[Grundlagen nach MDR 2017/745]{Grundlagen der Klassifikation} 
+	 	\begin{tabular}{||m{4cm}|m{4cm}|m{4cm}|m{4cm}|} \hline
+	 		\textbf{Nicht-Invasiv}	& \textbf{Invasiv} & \textbf{Aktiv} & \textbf{Sonderfälle} 
+	 		\\\hline
+	 		Regel \textbf{1 - 3} & Regel \textbf{5 - 8} & Regel \textbf{9 - 13} & Regel \textbf{14 - 22} \\\hline
+	 	
+	 	\end{tabular}
+	 \end{table}
 	
 	
 	\newpage
@@ -98,12 +105,15 @@
 	%%%%%%TABELLENVERZEICHNIS%%%%%
 	\listoftables% Tabellenverzeichnis
 	
+	%%%%
+	\printbibliography
+	
 	%%%
 	% \cite{beispiel}
 	
 	%%%%%%%% LITERATURVERZEICHNIS %%%%%%%%%%%
 	%%
-	\bibliographystyle{apacite}
+
 
 	
 	%\flushleft
